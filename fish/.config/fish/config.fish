@@ -7,6 +7,7 @@ abbr -a -- gs 	git status
 abbr -a -- ga	git add
 abbr -a -- gd	git diff
 abbr -a -- gcm 	git commit -m
+abbr -a -- gb	git branch --sort=-committerdate
 
 abbr -a -- wh	cd ~/workspace/webhooks
 abbr -a -- dp	cd ~/workspace/developer-portal
