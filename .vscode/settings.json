@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": false,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "editor.formatOnType": true,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+}
