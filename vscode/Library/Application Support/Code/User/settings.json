@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "Monokai",
+    "workbench.colorTheme": "Spinel",
     "files.autoSave": "afterDelay",
     "editor.minimap.enabled": false,
     "terminal.integrated.defaultProfile.osx": "zsh",
